@@ -10,3 +10,9 @@ This program dynamically manages the inventory of available and borrowed books u
 - Uses stack data structure for inventory tracking  
 - Maintains updated inventory in real time  
 - Implements LIFO-based checkout logic  
+
+## How to Run
+Run the Python file using:
+python main.py
+
+<img width="311" height="170" alt="image" src="https://github.com/user-attachments/assets/9d6dc673-9b1b-43f2-91cb-637461aff6ce" />
